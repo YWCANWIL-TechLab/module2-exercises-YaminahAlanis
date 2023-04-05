@@ -17,6 +17,8 @@ let val6 = 1;
 console.log(val5 !== val6);
 
 let val7 = val6;
+val6 = 10;
+// ? What will the value of val7 be? 1? or 10?
 
 
 
