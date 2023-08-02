@@ -34,3 +34,15 @@ function bitwiseLeftShift() {
 function bitwiseRightShift() {
     // TODO Write your answer here
 }
+
+
+let variable = 'I am a variable';
+const constant = 'I am a constant';
+
+
+var badVariable = 'This is a var'; // ! Do Not Use
+
+let var1 = 10, y, z;
+
+let howdy = "I am Case sensitive";
+let Howdy = "I am Case sensitive too";
