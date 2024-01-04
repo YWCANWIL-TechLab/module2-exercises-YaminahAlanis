@@ -1,4 +1,4 @@
-// ! Please leave a comment with your guess for what each value will be 
+// * Logical Exercises
 /**
  * Given the variables boolean1 and boolean2, use console.log() 
  * to find out the value of boolean1 and boolean2.
@@ -32,13 +32,6 @@ function complexOr() {
     // TODO Write your answer here
 }
 
-// ? What will the value of (!(value1 < value2)) be?
 
-// * We can combine these operators to become increasingly complex
-// * Remember: Two !s (NOTs) cancel each other out. !(!true) would be true
-
-// ? What will the value of (!(value1 > 0) && !(value2 > 0))
-
-// ? What will the value of (false || !(false && false))
 
 

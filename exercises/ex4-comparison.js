@@ -1,6 +1,4 @@
-// ? What will be the value of the following expressions?
-//  TODO Leave a comment with your guess of what each value should be 
-
+// * Comparison Exercises
 
 /**
  * Given the variables val1 and val2, use console.log() to check 

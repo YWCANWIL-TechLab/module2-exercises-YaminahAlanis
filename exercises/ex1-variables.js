@@ -7,20 +7,7 @@
  */
 function createVariables() {
     // TODO Write your answer here
-}
-
-/**
- * Create a variable called firstName2 and another 
- * variable called lastName2. Then, use 
- * console.log() to print out "Hi, my name is
- * [firstName] [lastName]". However, this time you 
- * should use a String Template (Backtick String) to
- * insert the variables
- * 
- */
-function createVariables2() {
-    // TODO Write your answer here
-}
+}   
 
 /**
  * Create a variable called num1 and assign it a 

@@ -1,32 +1,31 @@
 // * Operator Exercises
-// * Please log all exercises to the console unless stated otherwise
 
 /**
  * Use console.log() to print out the sum of 10 and 17.
  */
 function addTwoNumbers() {
-    // TODO Write your answer here
+    // TODO Finish the function
 }
 
 /**
  * Use console.log to print out the value of 15 minus 1.
  */
 function subtractTwoNumbers() {
-    // TODO Write your answer here
+    // TODO Finish the function
 }
 
 /**
  * Use console.log() to print out the value of multiply 15 times 79.
  */
 function multiplyTwoNumbers() {
-    // TODO Write your answer here
+    // TODO Finish the function
 }
 
 /**
  * Use console.log() to print out the value of 10 divided by 2.
  */
 function divideTwoNumbers() {
-    // TODO Write your answer here
+    // TODO Finish the function
 }
 
 /**
@@ -35,14 +34,14 @@ function divideTwoNumbers() {
  * ! Modulo division returns the remainder of the number
  */
 function moduloDivideTwoNumbers() {
-    // TODO Write your answers here
+    // TODO Finish the function
 }
 
 /**
  * Use console.log() to print out the value of 5 to the power of 2.
  */
 function exponentiate() {
-    // TODO Write your answer here
+    // TODO Finish the function
 }
 
 /**
@@ -53,8 +52,7 @@ function exponentiate() {
  * * operator.
  */
 function incrementByOne() {
-    let incrementMe = 10;
-    // TODO Write your answer here
+    // TODO Finish the function
 }
 
 /**
@@ -65,7 +63,5 @@ function incrementByOne() {
  * * the - operator.
  */
 function decrementMe() {
-    // TODO Write your answer here
-    let decrementMe = 10;
-
+    // TODO Finish the function
 }
